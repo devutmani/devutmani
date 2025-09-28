@@ -1,17 +1,20 @@
-![Dev Kumar - AI Engineer Profile](dev.jpeg)
-
 # Hi, I'm Dev Kumar 👋
 
-🎓 **Bachelor of Science in Artificial Intelligence**  
-FAST NUCES | Aspiring AI Engineer
-
----
-
-## 🚀 About Me
-
-I'm passionate about building intelligent systems and using AI to solve real-world problems. Currently, I’m pursuing my Bachelor’s in Artificial Intelligence at FAST NUCES, honing my skills in Python, Data Structures & Algorithms, Object-Oriented Programming, and core AI concepts.
-
-With a strong foundation in C, C++, and a growing expertise in Python, I’m driven by curiosity and a commitment to mastering the AI Engineer toolkit – from machine learning to neural networks and beyond.
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/00000000/your-uploaded-image.jpg" alt="Dev Kumar - AI Engineer Profile" width="150" align="left" style="margin-right: 20px; border-radius: 12px;" />
+    </td>
+    <td>
+      <strong>Bachelor of Science in Artificial Intelligence</strong><br>
+      FAST NUCES | Aspiring AI Engineer
+      <br><br>
+      I'm passionate about building intelligent systems and using AI to solve real-world problems. Currently, I’m pursuing my Bachelor’s in Artificial Intelligence at FAST NUCES, honing my skills in Python, Data Structures & Algorithms, Object-Oriented Programming, and core AI concepts.
+      <br><br>
+      With a strong foundation in C, C++, and a growing expertise in Python, I’m driven by curiosity and a commitment to mastering the AI Engineer toolkit – from machine learning to neural networks and beyond.
+    </td>
+  </tr>
+</table>
 
 ---
 
