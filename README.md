@@ -30,8 +30,8 @@
 ## 🏗️ Featured Projects
 
 - [ClappyBird](https://github.com/R4F4I/ClappyBird) — Fun AI-powered game experiments
+- [WordPlus](https://github.com/devutmani/WordPlus) — DSA project that analyzes text to find frequency of unique words.
 - [HelicopterGame](https://github.com/devutmani/HelicopterGame) — OOP & game logic showcase
-- [WordPlus](https://github.com/devutmani/WordPlus) — Text analysis tool for finding and ranking frequently used words
 - [oopLab](https://github.com/devutmani/oopLab) & [oopTheory](https://github.com/devutmani/oopTheory) — OOP concepts in practice
 
 *Stay tuned: New AI projects coming this month!*
