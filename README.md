@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/00000000/your-uploaded-image.jpg" alt="Dev Kumar - AI Engineer Profile" width="150" align="left" style="margin-right: 20px; border-radius: 12px;" />
+      <img src="dev.jpg" alt="Dev Kumar - AI Engineer Profile" width="150" align="left" style="margin-right: 20px; border-radius: 12px;" />
     </td>
     <td>
       <strong>Bachelor of Science in Artificial Intelligence</strong><br>
