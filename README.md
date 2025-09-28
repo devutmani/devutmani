@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="dev.jpeg" alt="Dev Kumar - AI Engineer Profile" width="300" align="left" style="margin-right: 20px; border-radius: 15px;" />
+      <img src="dev.jpeg" alt="Dev Kumar - AI Engineer Profile" width="400" align="left" style="margin-right: 20px; border-radius: 15px;" />
     </td>
     <td>
       <strong>Bachelor of Science in Artificial Intelligence</strong><br>
