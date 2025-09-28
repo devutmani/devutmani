@@ -1,4 +1,4 @@
-![Dev Kumar - AI Engineer Profile](https://user-images.githubusercontent.com/00000000/your-uploaded-image.jpg)
+![Dev Kumar - AI Engineer Profile](dev.jpeg)
 
 # Hi, I'm Dev Kumar 👋
 
