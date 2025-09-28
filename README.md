@@ -1,46 +1,62 @@
-![Demo Profile Picture](https://via.placeholder.com/150)
+![Dev Kumar - AI Engineer Profile](https://user-images.githubusercontent.com/00000000/your-uploaded-image.jpg)
 
 # Hi, I'm Dev Kumar 👋
 
-🎓 **BSc Artificial Intelligence @ FAST NUCES**
-
-Aspiring AI Engineer, passionate about building intelligent systems and exploring the future of technology.
+🎓 **Bachelor of Science in Artificial Intelligence**  
+FAST NUCES | Aspiring AI Engineer
 
 ---
 
 ## 🚀 About Me
 
-- 👩‍💻 Currently working on Python & AI projects — stay tuned for some cool repositories coming soon!
-- 💡 Strong foundation in **C**, **C++**, **Data Structures & Algorithms**, and **Object-Oriented Programming**
-- 🌱 Learning and experimenting with everything AI, from theory to practical projects.
-- 🧩 I love problem-solving and making algorithms fun and engaging.
+I'm passionate about building intelligent systems and using AI to solve real-world problems. Currently, I’m pursuing my Bachelor’s in Artificial Intelligence at FAST NUCES, honing my skills in Python, Data Structures & Algorithms, Object-Oriented Programming, and core AI concepts.
+
+With a strong foundation in C, C++, and a growing expertise in Python, I’m driven by curiosity and a commitment to mastering the AI Engineer toolkit – from machine learning to neural networks and beyond.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
 - **Languages:** Python, C, C++
-- **Core Areas:** Data Structures & Algorithms, Object-Oriented Programming
-- **AI/ML:** Building, training, and deploying AI models (projects coming soon!)
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+- **AI Focus:** Machine Learning, Neural Networks, Deep Learning (actively learning & building)
+- **Tools:** NumPy, Pandas, scikit-learn, TensorFlow, PyTorch (learning and experimenting)
 
 ---
 
-## 📦 Featured Projects
+## 🏗️ Featured Projects
 
-- [HelicopterGame](https://github.com/devutmani/HelicopterGame)
-- [FunnyAlgorithms](https://github.com/devutmani/FunnyAlgorithms)
-- [oopLab](https://github.com/devutmani/oopLab)
-- [oopTheory](https://github.com/devutmani/oopTheory)
-- [ClappyBird](https://github.com/R4F4I/ClappyBird)
+- [ClappyBird](https://github.com/R4F4I/ClappyBird) — Fun AI-powered game experiments
+- [HelicopterGame](https://github.com/devutmani/HelicopterGame) — OOP & game logic showcase
+- [FunnyAlgorithms](https://github.com/devutmani/FunnyAlgorithms) — Unique and quirky algorithm implementations
+- [oopLab](https://github.com/devutmani/oopLab) & [oopTheory](https://github.com/devutmani/oopTheory) — OOP concepts in practice
 
----
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/demo)
-- [Twitter](https://twitter.com/demo)
-- [Portfolio](https://your-portfolio-demo.com)
+*Stay tuned: New AI projects coming this month!*
 
 ---
 
-_“Building the future, one line of code at a time!”_
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning architectures
+- AI project deployment
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn (Demo)](https://linkedin.com/in/demo)
+- [Twitter (Demo)](https://twitter.com/demo)
+- [Personal Website (Demo)](https://demo.dev)
+
+---
+
+## 🤖 AI Engineer Vision
+
+As an aspiring AI Engineer, I strive to build robust, scalable, and ethical AI solutions. My GitHub is a playground for innovation—where algorithms meet creativity and curiosity drives discovery.
+
+Let's connect, collaborate, and shape the future of AI together!
+
+---
+
+> *“The best way to predict the future is to invent it.”* — Alan Kay
