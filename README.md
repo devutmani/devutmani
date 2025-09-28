@@ -1,5 +1,5 @@
 ## 🚀 About Me
-* Hi👋, I'm Dev Kumar
+# **Hi👋, I'm Dev Kumar**
 
 I'm passionate about building intelligent systems and using AI to solve real-world problems. Currently, I’m pursuing my Bachelor’s in Artificial Intelligence at FAST NUCES, honing my skills in Python, Data Structures & Algorithms, Object-Oriented Programming, and core AI concepts.
 
