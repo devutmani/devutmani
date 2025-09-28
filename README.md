@@ -31,7 +31,7 @@
 
 - [ClappyBird](https://github.com/R4F4I/ClappyBird) — Fun AI-powered game experiments
 - [HelicopterGame](https://github.com/devutmani/HelicopterGame) — OOP & game logic showcase
-- [FunnyAlgorithms](https://github.com/devutmani/FunnyAlgorithms) — Unique and quirky algorithm implementations
+- [WordPlus](https://github.com/devutmani/WordPlus) — Text analysis tool for finding and ranking frequently used words
 - [oopLab](https://github.com/devutmani/oopLab) & [oopTheory](https://github.com/devutmani/oopTheory) — OOP concepts in practice
 
 *Stay tuned: New AI projects coming this month!*
