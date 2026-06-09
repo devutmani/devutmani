@@ -81,20 +81,16 @@ Languages  : Python, C, C++
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                             -->
-<!--   Using github-stats.vercel.app (more reliable mirror)    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card - using different reliable instance -->
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- Streak - demolab is most reliable -->
 ![Streak](https://streak-stats.demolab.com?user=devutmani&theme=tokyonight&hide_border=true)
 
 </div>
@@ -102,14 +98,17 @@ Languages  : Python, C, C++
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--     TROPHIES - using ryo-ma direct instance               -->
+<!--         ACHIEVEMENTS - shields.io badges (100% reliable)  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements & Highlights
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devutmani&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true)
+![Commits](https://img.shields.io/badge/Total%20Commits-179-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![PRs](https://img.shields.io/badge/Pull%20Requests-1-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-gold?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Coding%20Since-2024-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
