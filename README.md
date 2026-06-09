@@ -6,7 +6,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=220&section=header&text=Dev%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20FAST%20NUCES%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=👋+Hi%2C+I'm+Dev+Kumar!;🤖+Aspiring+AI+Engineer;🧠+Machine+Learning+%7C+Deep+Learning;⚡+Data+Structures+%26+Algorithms;🚀+Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Dev+Kumar!;🤖+Aspiring+AI+Engineer;🧠+Machine+Learning+%7C+Deep+Learning;⚡+Data+Structures+%26+Algorithms;🚀+Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devutmani&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/devutmani?style=for-the-badge&color=58a6ff&labelColor=0d1117)
@@ -87,12 +87,9 @@ Languages  : Python, C, C++
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-</div>
-
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Streak](https://streak-stats.demolab.com?user=devutmani&theme=tokyonight&hide_border=true)
 
@@ -108,7 +105,7 @@ Languages  : Python, C, C++
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devutmani&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=devutmani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
