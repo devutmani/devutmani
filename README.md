@@ -46,6 +46,14 @@ I'm passionate about building intelligent systems and using AI to solve real-wor
 
 ---
 
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/devutmani/devutmani/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
