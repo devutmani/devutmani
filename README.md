@@ -87,14 +87,14 @@ Languages  : Python, C, C++
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=devutmani&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=devutmani&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -108,7 +108,7 @@ Languages  : Python, C, C++
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devutmani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devutmani&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
