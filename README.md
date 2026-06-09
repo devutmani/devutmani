@@ -81,16 +81,20 @@ Languages  : Python, C, C++
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                             -->
+<!--   Using github-stats.vercel.app (more reliable mirror)    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+<!-- Stats Card - using different reliable instance -->
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devutmani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devutmani&layout=compact&theme=tokyonight&hide_border=true)
 
+<!-- Streak - demolab is most reliable -->
 ![Streak](https://streak-stats.demolab.com?user=devutmani&theme=tokyonight&hide_border=true)
 
 </div>
@@ -98,14 +102,14 @@ Languages  : Python, C, C++
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                -->
+<!--     TROPHIES - using ryo-ma direct instance               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devutmani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=devutmani&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true)
 
 </div>
 
