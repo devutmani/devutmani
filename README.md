@@ -100,14 +100,6 @@ Languages  : Python, C, C++
 
 ---
 
-<div align="center"> 
-
-![Snake](https://raw.githubusercontent.com/devutmani/devutmani/output/github-contribution-grid-snake-dark.svg) 
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TROPHIES                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
