@@ -27,7 +27,7 @@
 Name       : Dev Kumar
 Education  : BS Artificial Intelligence
 University : FAST NUCES
-Year       : Sophomore
+Year       : Junior
 Location   : Pakistan 🇵🇰
 Focus      : AI Engineer | ML | Deep Learning
 Languages  : Python, C, C++
