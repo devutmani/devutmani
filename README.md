@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Dev+Kumar!;🤖+Aspiring+AI+Engineer;🧠+Machine+Learning+%7C+Deep+Learning;⚡+Data+Structures+%26+Algorithms;🚀+Building+the+Future+with+AI)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=devutmani&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/devutmani.svg?style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/devutmani?style=for-the-badge&color=58a6ff&labelColor=0d1117)
 
 </div>
